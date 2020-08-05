@@ -1,0 +1,6 @@
+id,name,level,personality,type,weakness,atk,def,hp,stage
+23,Ekans,15,Jolly,poison,psychic,40,15,35,1
+59,Arcanine,35,gentle,fire,water,45,60,80,2
+80,Slowbro,54,modest,psychic,dark,72,192,171,2
+121,Starmie,76,hardy,water,electric,34,194,131,2
+111,Rhyhorn,31,naughty,rock,water,40,116,175,1
