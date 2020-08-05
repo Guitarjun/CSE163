@@ -1,0 +1,14 @@
+1. a) I don't think it is a very effective visualization. The 'All sexes' category makes the graph confusing, since it is 
+      intended to be measuring a disparity in gender and edcuation level. If the 'A' category were removed, I think the graph would
+      be more effective.
+   b) I chose a line graph with a hue to differentiate minimum degree earned. I think my graph is a very effective
+      visualization, since it shows distinctly different trends for 'high school' and 'bachelor's' degrees in an
+      easily readable format. The trends are clear and understandable.
+
+2. This data might be incomplete. The schooling system in the United States is very elaborate, and it is very possible
+   that certain racial/gender groups are excluded in the data set due to different circumstances or external factors.
+   This would lead to data that doesn't truly represent the actual intellectual capabilities of certain groups
+
+3. This data is objective and doesn't account for the actual factors involved. Thus, someone with nefarious
+   intentions can use trends in this data to make claims about a certain sex/racial group to negatively sway
+   people's opinions.
